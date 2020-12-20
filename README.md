@@ -18,3 +18,6 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+git branch -M main
+PS C:\nuxt\sosyal-sube> git remote add origin https://github.com/orates99/sosyal-sube.git
+PS C:\nuxt\sosyal-sube> git push -u origin main
